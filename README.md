@@ -10,7 +10,7 @@ descritos en el prompt maestro (Mi Turno, Personal, Cerveza, Inventarios, Manten
 - ✅ Navegación: sidebar en escritorio, barra inferior en móvil
 - ✅ Estructura de carpetas lista para agregar cada módulo sin desordenar el proyecto
 - ⏳ El resto de los módulos están como pantallas "placeholder" — mismo patrón, listos
-  para llenarse uno por uno
+  para llenarse uno por uno. 
 
 ## Cómo correrlo en tu computadora
 
